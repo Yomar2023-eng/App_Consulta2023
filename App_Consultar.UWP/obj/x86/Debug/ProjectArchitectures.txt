@@ -1,0 +1,1 @@
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar.UWP\App_Consultar.UWP.csproj;x86

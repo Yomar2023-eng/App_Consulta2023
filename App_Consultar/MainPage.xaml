@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Consultar.MainPage">
+    <StackLayout>
+        <Frame Margin="25,25,25,25"
+               CornerRadius="20"
+               BackgroundColor="#899ADB">
+            <StackLayout>
+                <Label Text="Consultar DNI - RUC"
+                       TextColor="White"
+                       FontSize="20"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center" />
+            </StackLayout>
+        </Frame>
+        <Frame Margin="25,-15,25,25"
+               Padding="100,200"
+               CornerRadius="20"
+               BackgroundColor="#CBDFCB">
+            <StackLayout>
+                <Entry x:Name="ConsultarDoc"></Entry>
+                <Entry x:Name="Nombre"></Entry>
+                <Entry x:Name="apPaterno"></Entry>
+                <Entry x:Name="apMaterno"></Entry>
+                <Button Text="Consultar"
+                        CornerRadius="20"
+                        TextColor="white"
+                        BackgroundColor="#50CC55"
+                        x:Name="ver"
+                        Clicked="ver_Clicked"></Button>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

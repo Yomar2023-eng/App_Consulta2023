@@ -1,0 +1,15 @@
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\bin\Debug\netstandard2.0\App_Consultar.deps.json
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\bin\Debug\netstandard2.0\App_Consultar.dll
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\bin\Debug\netstandard2.0\ref\App_Consultar.dll
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\bin\Debug\netstandard2.0\App_Consultar.pdb
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App_Consultar.csproj.AssemblyReference.cache
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App_Consultar.GeneratedMSBuildEditorConfig.editorconfig
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App_Consultar.AssemblyInfoInputs.cache
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App_Consultar.AssemblyInfo.cs
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App_Consultar.csproj.CoreCompileInputs.cache
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\XamlC.stamp
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App_Consultar.dll
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\refint\App_Consultar.dll
+E:\_APLICACIONESMOBILES\App_Consultar\App_Consultar\obj\Debug\netstandard2.0\App_Consultar.pdb
